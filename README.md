@@ -1,7 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-take a look at my project [instagram](https://vercel.com/davis-projects-7a97412e))
-## Getting Started
+take a look at my project [[instagram]([https://vercel.com/davis-projects-7a97412e)](https://instagram-iota-lovat.vercel.app/))
+## Getting Started](https://instagram-iota-lovat.vercel.app/)
 
 First, run the development server:
 
