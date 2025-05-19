@@ -23,7 +23,6 @@ const posts: Post[] = Array.from({ length: 20 }, (_, i) => ({
 export default function Home() {
   return (
     <div>
-      {/* <h1 className="text-center text-2xl font-bold mb-6"> .</h1> */}
       {posts.map((post) => (
         <PostItem key={post.id} post={post} />
       ))}
